@@ -23,7 +23,6 @@ public class ConsumerController {
 	
 	
 	
-	
 	public ConsumerController(ConsumerService consumeServe) {
 		super();
 		this.consumeServe = consumeServe;
